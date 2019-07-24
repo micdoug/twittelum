@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TwittelumApp</string>
+    <string name="twittHint">O que você está pensando?</string>
+    <string name="twittButton">Publicar Tweet</string>
+    <string name="createTweet">Create tweet</string>
+
+</resources>
