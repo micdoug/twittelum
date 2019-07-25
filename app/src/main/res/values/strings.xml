@@ -3,5 +3,7 @@
     <string name="twittHint">O que você está pensando?</string>
     <string name="twittButton">Publicar Tweet</string>
     <string name="createTweet">Create tweet</string>
+    <string name="save">save</string>
+    <string name="tweetRequireText">You need to provide the tweet text</string>
 
 </resources>

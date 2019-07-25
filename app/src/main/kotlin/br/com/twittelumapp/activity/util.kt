@@ -1,4 +1,4 @@
-package br.com.twittelumapp
+package br.com.twittelumapp.activity
 
 import android.app.Activity
 import android.content.Context
